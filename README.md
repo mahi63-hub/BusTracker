@@ -170,4 +170,5 @@ This launches the Metro bundler in offline mode. Select **w** to open it directl
 | **10. window.calculateETA expose** | Implemented | [App.js](file:///C:/Users/Dell/OneDrive/Documents/GPP/transit-tracker/client/App.js) lines 25-33 and [eta.js](file:///C:/Users/Dell/OneDrive/Documents/GPP/transit-tracker/client/src/utils/eta.js) |
 | **11. window.getReconnectDelay expose** | Implemented | [App.js](file:///C:/Users/Dell/OneDrive/Documents/GPP/transit-tracker/client/App.js) lines 25-33 and [reconnect.js](file:///C:/Users/Dell/OneDrive/Documents/GPP/transit-tracker/client/src/utils/reconnect.js) |
 #   B u s T r a c k e r  
+ #   B u s T r a c k e r  
  
